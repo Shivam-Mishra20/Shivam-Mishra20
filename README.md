@@ -7,7 +7,7 @@
 
 - E-commerce website [https://mitraecom.netlify.app/](https://mitraecom.netlify.app/)
 
-- 💬 Ask me about **HTML ,CSS JS and REACT**
+- 💬 Ask me about **HTML5 ,CSS3 , JS And REACT**
 
 - 📫 How to reach me **shiv912998@gmail.com**
 
