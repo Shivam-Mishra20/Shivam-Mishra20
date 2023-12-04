@@ -5,12 +5,12 @@
 
 - 🌱 I’m currently learning **React**
 
-- E-commerce website [https://mitraecom.netlify.app/](https://mitraecom.netlify.app/)
-
 - 💬 Ask me about **HTML5 ,CSS3 , JS And REACT**
 
 - 📫 How to reach me **shiv912998@gmail.com**
-
+- my projects
+-  E-commerce website [https://mitraecom.netlify.app/](https://mitraecom.netlify.app/)
+-   Movie search web app https://shivam-mishra20.github.io/Movie-Search-web-app/
 - ⚡ Fun fact **I am funny 😎**
 
 <h3 align="left">Connect with me:</h3>
