@@ -8,9 +8,12 @@
 - 💬 Ask me about **HTML5 ,CSS3 , JS And REACT**
 
 - 📫 How to reach me **shiv912998@gmail.com**
-- my projects 🤖
+- my projects 🤖 
 - E-commerce website [https://mitraecom.netlify.app/](https://mitraecom.netlify.app/)
-- Movie search web app https://shivam-mishra20.github.io/Movie-Search-web-app/
+- Movie search web app: https://shivam-mishra20.github.io/Movie-Search-web-app/
+- Realtime Weather App : https://shivam-mishra20.github.io/Weather-App--React/
+- Real Github Profile searcher's https://shivam-mishra20.github.io/Git-Search--App/
+- Working Todo's App :https://shivam-mishra20.github.io/Todo-App/
 - ⚡ Fun fact **I am funny 😎**
 
 <h3 align="left">Connect with me:</h3>
