@@ -14,7 +14,9 @@
 - Whatsapp-web-clone  : https://whatsapp-web2-clone.netlify.app/
 - Realtime Weather App : https://shivam-mishra20.github.io/Weather-App--React/
 - Real Github Profile searcher's https://shivam-mishra20.github.io/Git-Search--App/
-- Working Todo's App :https://shivam-mishra20.github.io/Todo-App/
+- Working Todo's App  :https://shivam-mishra20.github.io/Todo-App/
+- React-Redux Todo-App:https://shivam-mishra20.github.io/TodoReact/
+- Food-App React       https://foodwoody.netlify.app/
 - Speech Recoginiation React:https://speechrecoginitaio.netlify.app/
 - ⚡ Fun fact **I am funny 😎**
 
